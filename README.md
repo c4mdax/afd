@@ -1,2 +1,3 @@
-# afd
-Finite Deterministic au
+# AFD 
+Finite Deterministic Automata - Automata Finito Determinista
+
